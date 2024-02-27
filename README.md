@@ -1,6 +1,6 @@
 ### `clone a repo`
 
-git clone url
+git clone https://github.com/Sidu52/Cricket-Player-Management-System.git
 
 ### `install dependency`
 
